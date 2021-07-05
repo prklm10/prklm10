@@ -26,7 +26,6 @@
 
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][linkedin]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][linkedin]
 
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][linkedin]
@@ -36,19 +35,10 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+---
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="prklm10's GitHub Stats" src="https://github-readme-stats.prklm10.vercel.app/api?username=prklm10&show_icons=true&hide_border=true" />
-
-</details>
+[![Pradum's GitHub stats](https://github-readme-stats.vercel.app/api?username=prklm10)]
 
 [twitter]: https://twitter.com/prklm10
-[youtube]: https://youtube.com/prklm10
 [instagram]: https://instagram.com/prklm10
 [linkedin]: https://www.linkedin.com/in/pradum-kumar-522788197/
