@@ -45,7 +45,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Best security practices in Node.Js that are easy to implement and understand](https://prklm10.hashnode.dev/best-security-practices-in-nodejs-that-are-easy-to-implement-and-understand)
+- [Understanding Jwt](https://prklm10.hashnode.dev/understanding-jwt)
 <!-- BLOG-POST-LIST:END -->
 
 [twitter]: https://twitter.com/prklm10
