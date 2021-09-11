@@ -5,7 +5,7 @@
 ## I'm a novice Back-end Developer from India
 
 - 🔭 I just completed my B.Tech degree in computer science from LNCT, Bhopal.
-- 🌱 I’m currently learning NodeJs, MongoDB
+- 🌱 I’m currently learning NodeJs, MongoDB and Spring
 - 🥅 2021 Goals: Contribute more to Open Source projects and become a good backend developer.
 - ⚡ Fun fact: I love to play chess, football and cricket and I am a Messi and Manchester United fan and I love listening to Eminem
 
